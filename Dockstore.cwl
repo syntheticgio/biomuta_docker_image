@@ -4,7 +4,7 @@ class: CommandLineTool
 id: "Biomuta"
 label: "Biomuta container"
 cwlVersion: v1.0
-doc: |
+document: |
     ![build_status](https://quay.io/repository/collaboratory/dockstore-tool-bamstats/status)
     A Docker container for the BioMuta Database. See the [BioMuta](https://hive.biochemistry.gwu.edu/biomuta) website for more information.
 
