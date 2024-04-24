@@ -1,6 +1,6 @@
 # Biomuta Docker Image
 
-Docker instructions for creating a container which includes the BioMuta Cancer Data.  This container is useful for delivering the BioMuta resource with any tools needed for analysis to an end user.
+Docker instructions for creating a container which includes the BioMuta Cancer Data.  This container is useful for delivering the BioMuta resource with any tools needed for analysis to an end user.  This was originally created for delivery through `https://dockstore.org/`, an app store for bioinformatics containers. 
 
 To create the container:
 `docker build -t biomuta:3.0 .`
