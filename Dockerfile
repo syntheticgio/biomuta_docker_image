@@ -1,6 +1,6 @@
 FROM ubuntu
 
-MAINTAINER John Torcivia-Rodriguez <torcivia@gwu.edu>
+MAINTAINER John Torcivia <torcivia@gwu.edu>
 
 RUN apt-get update && apt-get -y install wget
 
