@@ -9,7 +9,7 @@ doc: |
 
 dct:creator:
   "@id": "https://orcid.org/0000-0002-9307-5778"
-  foaf:name: John Torcivia-Rodriguez
+  foaf:name: John Torcivia
   foaf:mbox: "mailto:torcivia@gwu.edu"
 
 requirements:
